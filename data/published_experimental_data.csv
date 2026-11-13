@@ -1,0 +1,18 @@
+Source,Fiber_Type,Matrix_Type,Cure_Process,Fiber_Volume_Fraction,Tensile_Strength_MPa,Std_Dev_MPa,Void_Content_Percent,Specimen_Standard,Notes
+"WWFE-I (Soden et al., 1998)","E-glass (Silenka 1200tex)","Epoxy (MY750/HY917)","Hot press / cure 100C",0.60,1280.0,45.0,0.8,"ASTM D3039 / ISO 527","Benchmark benchmark from Worldwide Failure Exercise"
+"Daniel & Ishai (2006)","E-glass UD","Epoxy (DGEBA)","Autoclave cure",0.50,1020.0,38.0,1.2,"ASTM D3039","Engineering Mechanics of Composite Materials"
+"Hull & Clyne (1996)","E-glass continuous","Epoxy resin","Press cure 120C",0.55,1100.0,50.0,1.5,"ISO 527-5","Introduction to Composite Materials benchmark"
+"Mandell et al. - Sandia (2003)","E-LT 5500 Glass","Epoxy (Hexion RIM 135)","VARTM infusion",0.54,1062.0,55.0,1.8,"ASTM D3039","Wind turbine blade material characterization"
+"Mallick (2007)","E-glass roving","Epoxy 828 / DETA","Compression molded",0.45,880.0,40.0,2.0,"ASTM D3039","Fiber-Reinforced Composites handbook"
+"Jones (1999)","E-glass (Scotchply 1002)","Epoxy prepreg","Autoclave cure",0.45,827.0,35.0,1.0,"Federal Spec / ASTM","Mechanics of Composite Materials reference"
+"MIL-HDBK-17-2F (2002)","E-glass (1581 / 7781)","Epoxy 3501-6 equivalent","Autoclave 125C",0.57,1150.0,48.0,0.9,"ASTM D3039","US DoD Composite Materials Handbook"
+"Chawla (2012)","E-glass continuous","DGEBA / Amine","Room temp + post cure",0.35,650.0,30.0,2.2,"ASTM D3039","Science and Engineering of Composites"
+"Kassapoglou (2013)","E-glass UD prepreg","Aerospace Epoxy","Autoclave consolidated",0.62,1310.0,42.0,0.6,"ASTM D3039","Design and Analysis of Composite Structures"
+"ASTM D3039 Lab Series A","E-glass UD fabric","Epoxy (Araldite LY564)","Hand lay-up + vacuum bag",0.32,580.0,32.0,3.1,"ASTM D3039","Higher void content, laboratory coupon test"
+"ASTM D3039 Lab Series B","E-glass UD fabric","Epoxy (Araldite LY564)","Vacuum assisted resin infusion",0.40,790.0,36.0,2.1,"ASTM D3039","Medium volume fraction composite"
+"ASTM D3039 Lab Series C","E-glass UD roving","Epoxy (Araldite LY564)","Heated platen press",0.48,970.0,41.0,1.4,"ASTM D3039","Controlled laboratory test"
+"ASTM D3039 Lab Series D","E-glass UD prepreg","Toughened Epoxy","Autoclave cure (0.6 MPa)",0.52,1120.0,46.0,0.7,"ASTM D3039","High consolidation aerospace prepreg"
+"ASTM D3039 Lab Series E","E-glass UD prepreg","Toughened Epoxy","Autoclave cure (0.7 MPa)",0.58,1245.0,52.0,0.5,"ASTM D3039","High fiber volume fraction"
+"Gibson (2011)","E-glass continuous","Bisphenol-A Epoxy","Hot compression",0.42,810.0,35.0,1.6,"ASTM D3039","Principles of Composite Material Mechanics"
+"Barbero (2013)","E-glass UD strand","Epoxy resin","Pultrusion",0.65,1340.0,60.0,1.1,"ASTM D3039","Finite Element Analysis of Composite Materials"
+

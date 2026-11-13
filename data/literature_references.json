@@ -1,0 +1,253 @@
+[
+  {
+    "id": 1,
+    "authors": "Jones, R. M.",
+    "year": 1999,
+    "title": "Mechanics of Composite Materials",
+    "edition": "2nd Edition",
+    "publisher": "Taylor & Francis / CRC Press",
+    "doi_or_isbn": "978-1560327127",
+    "key_contribution": "Foundational mechanics, rule of mixtures derivation, micro-to-macro mechanics of lamina."
+  },
+  {
+    "id": 2,
+    "authors": "Hull, D., and Clyne, T. W.",
+    "year": 1996,
+    "title": "An Introduction to Composite Materials",
+    "edition": "2nd Edition",
+    "publisher": "Cambridge University Press",
+    "doi_or_isbn": "978-0521388559",
+    "key_contribution": "Detailed analysis of fiber-matrix interfaces, shear lag, critical fiber length, and tensile failure mechanisms."
+  },
+  {
+    "id": 3,
+    "authors": "Daniel, I. M., and Ishai, O.",
+    "year": 2006,
+    "title": "Engineering Mechanics of Composite Materials",
+    "edition": "2nd Edition",
+    "publisher": "Oxford University Press",
+    "doi_or_isbn": "978-0195150971",
+    "key_contribution": "Experimental characterization standards (ASTM D3039), lamina stress-strain behavior, knockdown phenomena."
+  },
+  {
+    "id": 4,
+    "authors": "Soden, P. D., Hinton, M. J., and Kaddour, A. S.",
+    "year": 1998,
+    "title": "Lamina properties, lay-up configurations and loading conditions for a range of fibre-reinforced composite laminates",
+    "journal": "Composites Science and Technology",
+    "volume": "58",
+    "issue": "7",
+    "pages": "1011-1022",
+    "key_contribution": "Worldwide Failure Exercise (WWFE) benchmark properties for Silenka E-glass / MY750 epoxy."
+  },
+  {
+    "id": 5,
+    "authors": "ASTM International",
+    "year": 2017,
+    "title": "Standard Test Method for Tensile Properties of Polymer Matrix Composite Materials",
+    "standard": "ASTM D3039/D3039M-17",
+    "publisher": "ASTM International, West Conshohocken, PA",
+    "key_contribution": "Definitive testing standard for coupon dimensions, tabs, loading rate, strain measurement, and tensile failure modes."
+  },
+  {
+    "id": 6,
+    "authors": "ASTM International",
+    "year": 2016,
+    "title": "Standard Test Methods for Constituent Content of Composite Materials",
+    "standard": "ASTM D3171-15",
+    "publisher": "ASTM International, West Conshohocken, PA",
+    "key_contribution": "Procedures for matrix burn-off / resin digestion to accurately determine fiber volume fraction and void content."
+  },
+  {
+    "id": 7,
+    "authors": "Mallick, P. K.",
+    "year": 2007,
+    "title": "Fiber-Reinforced Composites: Materials, Manufacturing, and Design",
+    "edition": "3rd Edition",
+    "publisher": "CRC Press",
+    "doi_or_isbn": "978-0849342059",
+    "key_contribution": "Manufacturing process effects (compression molding, autoclave, infusion) on void content and fiber volume fraction."
+  },
+  {
+    "id": 8,
+    "authors": "Mandell, J. F., Samborsky, D. D., and Miller, D. A.",
+    "year": 2003,
+    "title": "Fatigue and Tensile Database for Wind Turbine Blade Materials",
+    "publisher": "Sandia National Laboratories Report SAND2003-0941",
+    "key_contribution": "Extensive tensile strength database of E-glass/epoxy composites under varying volume fractions and architectures."
+  },
+  {
+    "id": 9,
+    "authors": "Voigt, W.",
+    "year": 1889,
+    "title": "Ueber die Beziehung zwischen den beiden Elasticitatsconstanten isotroper Korper",
+    "journal": "Annalen der Physik",
+    "volume": "274",
+    "issue": "12",
+    "pages": "573-587",
+    "key_contribution": "Original formulation of the iso-strain parallel rule of mixtures model."
+  },
+  {
+    "id": 10,
+    "authors": "Kelly, A., and Tyson, W. R.",
+    "year": 1965,
+    "title": "Tensile properties of fibre-reinforced metals: II. Creep of silver-tungsten",
+    "journal": "Journal of the Mechanics and Physics of Solids",
+    "volume": "13",
+    "issue": "6",
+    "pages": "329-350",
+    "key_contribution": "Shear lag analysis, critical fiber length, and fiber-matrix stress transfer."
+  },
+  {
+    "id": 11,
+    "authors": "Krenchel, H.",
+    "year": 1964,
+    "title": "Fibre Reinforcement: Theoretical and Practical Investigations of the Elasticity and Strength of Fibre-Reinforced Materials",
+    "publisher": "Akademisk Forlag, Copenhagen",
+    "key_contribution": "Orientation efficiency factors (cos^4 theta) for non-aligned fiber systems."
+  },
+  {
+    "id": 12,
+    "authors": "Chamis, C. C.",
+    "year": 1989,
+    "title": "Mechanics of composite materials: Past, present, and a future",
+    "journal": "Journal of Composites Technology and Research",
+    "volume": "11",
+    "issue": "1",
+    "pages": "3-14",
+    "key_contribution": "Simplified micromechanics equations for composite properties including void knockdowns."
+  },
+  {
+    "id": 13,
+    "authors": "Judd, N. C. W., and Wright, W. W.",
+    "year": 1978,
+    "title": "Voids and their effects on the mechanical properties of composites—An appraisal",
+    "journal": "SAMPE Journal",
+    "volume": "14",
+    "issue": "1",
+    "pages": "10-14",
+    "key_contribution": "Quantification of composite tensile and interlaminar strength reduction as a function of void content."
+  },
+  {
+    "id": 14,
+    "authors": "Weibull, W.",
+    "year": 1951,
+    "title": "A statistical distribution function of wide applicability",
+    "journal": "Journal of Applied Mechanics",
+    "volume": "18",
+    "issue": "3",
+    "pages": "293-297",
+    "key_contribution": "Statistical theory of brittle fiber strength as a function of gage length and defect distribution."
+  },
+  {
+    "id": 15,
+    "authors": "Zweben, C.",
+    "year": 1972,
+    "title": "Tensile failure of fiber composites",
+    "journal": "AIAA Journal",
+    "volume": "10",
+    "issue": "12",
+    "pages": "1669-1675",
+    "key_contribution": "Micro-mechanical statistical failure model for unidirectional fiber bundles in polymer matrices."
+  },
+  {
+    "id": 16,
+    "authors": "Halpin, J. C., and Kardos, J. L.",
+    "year": 1976,
+    "title": "The Halpin-Tsai equations: A review",
+    "journal": "Polymer Engineering & Science",
+    "volume": "16",
+    "issue": "5",
+    "pages": "344-352",
+    "key_contribution": "Semi-empirical micromechanics expressions for transverse modulus and shear behavior."
+  },
+  {
+    "id": 17,
+    "authors": "Cox, H. L.",
+    "year": 1952,
+    "title": "The elasticity and strength of paper and other fibrous materials",
+    "journal": "British Journal of Applied Physics",
+    "volume": "3",
+    "issue": "3",
+    "pages": "72-79",
+    "key_contribution": "Foundational shear-lag theory for stress transfer between matrix and reinforcing fibers."
+  },
+  {
+    "id": 18,
+    "authors": "Agarwal, B. D., Broutman, L. J., and Chandrashekhara, K.",
+    "year": 2017,
+    "title": "Analysis and Performance of Fiber Composites",
+    "edition": "4th Edition",
+    "publisher": "John Wiley & Sons",
+    "doi_or_isbn": "978-1119389989",
+    "key_contribution": "Comprehensive treatment of fiber-matrix debonding, stress concentration around fiber breaks."
+  },
+  {
+    "id": 19,
+    "authors": "Barbero, E. J.",
+    "year": 2013,
+    "title": "Finite Element Analysis of Composite Materials using ANSYS",
+    "edition": "2nd Edition",
+    "publisher": "CRC Press",
+    "key_contribution": "Validation of micromechanics analytical models with FEA Representative Volume Elements (RVE)."
+  },
+  {
+    "id": 20,
+    "authors": "Chawla, K. K.",
+    "year": 2012,
+    "title": "Composite Materials: Science and Engineering",
+    "edition": "3rd Edition",
+    "publisher": "Springer New York",
+    "key_contribution": "Material science perspective on glass fiber drawing, sizing chemistry, and interfacial bonding with epoxy."
+  },
+  {
+    "id": 21,
+    "authors": "U.S. Department of Defense",
+    "year": 2002,
+    "title": "Composite Materials Handbook, Volume 2: Polymer Matrix Composites Materials Properties",
+    "standard": "MIL-HDBK-17-2F",
+    "publisher": "Department of Defense, Washington D.C.",
+    "key_contribution": "Standard design allowables, statistical basis (A-basis, B-basis) for glass/epoxy structural applications."
+  },
+  {
+    "id": 22,
+    "authors": "Kassapoglou, C.",
+    "year": 2013,
+    "title": "Design and Analysis of Composite Structures: With Applications to Aerospace Structures",
+    "edition": "2nd Edition",
+    "publisher": "John Wiley & Sons",
+    "key_contribution": "Industrial margins of safety, knockdown factors for manufacturing flaws and environmental exposure."
+  },
+  {
+    "id": 23,
+    "authors": "Bowyer, W. H., and Bader, M. G.",
+    "year": 1972,
+    "title": "On the re-inforcement of thermoplastics by imperfectly aligned discontinuous fibres",
+    "journal": "Journal of Materials Science",
+    "volume": "7",
+    "issue": "11",
+    "pages": "1315-1321",
+    "key_contribution": "Extended rule of mixtures incorporating both fiber orientation and fiber length distributions."
+  },
+  {
+    "id": 24,
+    "authors": "Thomason, J. L.",
+    "year": 2002,
+    "title": "The influence of fibre length and concentration on the properties of glass fibre-reinforced polypropylene",
+    "journal": "Composites Part A: Applied Science and Manufacturing",
+    "volume": "33",
+    "issue": "12",
+    "pages": "1641-1652",
+    "key_contribution": "Empirical validation of critical fiber stress transfer and interface shear strength in glass composites."
+  },
+  {
+    "id": 25,
+    "authors": "Gibson, R. F.",
+    "year": 2011,
+    "title": "Principles of Composite Material Mechanics",
+    "edition": "3rd Edition",
+    "publisher": "CRC Press",
+    "key_contribution": "Clear derivations of Voigt and Reuss bounds, elasticity approach to micromechanics."
+  }
+]
+
